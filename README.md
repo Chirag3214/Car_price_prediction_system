@@ -12,10 +12,6 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 
 
 
-## How to use?
-
-1. Clone the repository
-2. Install the required packages in "requirements.txt" file.
 
 Some packages are:
  - numpy 
